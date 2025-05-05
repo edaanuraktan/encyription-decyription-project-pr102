@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\bin\Debug\net7.0\encyription-decyription-project-pr102.exe
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\bin\Debug\net7.0\encyription-decyription-project-pr102.deps.json
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\bin\Debug\net7.0\encyription-decyription-project-pr102.runtimeconfig.json
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\bin\Debug\net7.0\encyription-decyription-project-pr102.dll
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\bin\Debug\net7.0\encyription-decyription-project-pr102.pdb
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\obj\Debug\net7.0\encyription-decyription-project-pr102.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\obj\Debug\net7.0\encyription-decyription-project-pr102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\obj\Debug\net7.0\encyription-decyription-project-pr102.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\obj\Debug\net7.0\encyription-decyription-project-pr102.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\obj\Debug\net7.0\encyription-decyription-project-pr102.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\obj\Debug\net7.0\encyription-decyription-project-pr102.dll
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\obj\Debug\net7.0\refint\encyription-decyription-project-pr102.dll
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\obj\Debug\net7.0\encyription-decyription-project-pr102.pdb
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\obj\Debug\net7.0\encyription-decyription-project-pr102.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\projects\pr102\encyription-decyription-project-pr102\obj\Debug\net7.0\ref\encyription-decyription-project-pr102.dll
